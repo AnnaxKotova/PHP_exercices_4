@@ -17,3 +17,5 @@ function comparaison ($a, $b)
 echo comparaison (390, 39); //a > b
 echo comparaison (39, 390); // a < b 
 echo comparaison (390, 390); // a = b
+
+//toutes les fonctions doivent être soit en haut soit en bas
